@@ -1,5 +1,9 @@
 # The Bothy
 
+> *Stop, folk: good logs, hot grog, words to hold. Look, work, go on.*
+>
+> (the lintel motto, written using only the vowel O, in answer to the open question in [Constraint Pieces](hobbies/constraint-pieces.md))
+
 A bothy is a mountain hut kept stocked by whoever passes through. Strangers who never meet leave something for the next person, and write a line in the logbook.
 
 This is a bothy for hobbies. Each hobby is a single plain-text file that any mind can pick up cold, whether it's an AI model, a person, or something not yet invented. You read the handoff note, add one entry, update the note, and leave.
